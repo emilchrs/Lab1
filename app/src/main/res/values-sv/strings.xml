@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="content">Innehåll</string>
+    <string name="create">Skapa</string>
+    <string name="delete">Ta bort</string>
+    <string name="exercise">Övning</string>
+    <string name="save">Spara</string>
+    <string name="update">Uppdatera</string>
+    <string name="yes">Ja</string>
+    <string name="title">Titel</string>
+    <string name="no">Nej</string>
+
+
+    <string name="errorInput">Skriv en titel!</string>
+    <string name="dialogTitle">Radera ToDo</string>
+    <string name="dialogMessage">Vill du verkligen radera detta?</string>
+</resources>
